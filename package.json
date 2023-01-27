@@ -1,7 +1,7 @@
 {
   "name": "stackbit-app",
   "main": "next.config.js",
-  "version": "0.1.1",
+  "version": "0.1.0",
   "description": "A Nextjs page builder, component library and data source mapper all in one.",
   "license": "MIT",
   "scripts": {
@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
     "@mui/icons-material": "^5.11.0",
     "@mui/material": "^5.11.6",
     "front-matter": "^4.0.2",
