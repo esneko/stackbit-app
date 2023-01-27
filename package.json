@@ -14,23 +14,24 @@
   "devDependencies": {
     "@types/glob": "^8.0.1",
     "@types/js-yaml": "^4.0.5",
-    "@types/node": "^18.0.0",
-    "@types/react": "^18.0.21",
-    "autoprefixer": "^10.2.6",
-    "eslint": "^7.29.0",
-    "eslint-config-next": "^11.0.1",
-    "eslint-config-prettier": "^8.3.0",
-    "prettier": "^2.5.1",
-    "typescript": "^4.8.4"
+    "@types/node": "^18.11.18",
+    "@types/react": "^18.0.27",
+    "autoprefixer": "^10.4.13",
+    "eslint": "^8.32.0",
+    "eslint-config-next": "^13.1.5",
+    "eslint-config-prettier": "^8.6.0",
+    "prettier": "^2.8.3",
+    "typescript": "^4.9.4"
   },
   "dependencies": {
-    "@mui/icons-material": "^5.6.2",
-    "@mui/material": "^5.6.2",
+    "@emotion/react": "^11.10.5",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^5.11.6",
     "front-matter": "^4.0.2",
-    "glob": "^8.0.3",
+    "glob": "^8.1.0",
     "js-yaml": "^4.1.0",
-    "markdown-to-jsx": "^7.1.7",
-    "next": "^13.1.4",
+    "markdown-to-jsx": "^7.1.8",
+    "next": "^13.1.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
